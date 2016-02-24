@@ -23,3 +23,20 @@
     </div>
   </div>
 </footer>
+
+
+<!-- Compiled and minified JavaScript -->
+<script type="text/javascript" src="scripts/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="scripts/jquery/dist/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/materialize/dist/js/materialize.min.js"></script>
+<script type="text/javascript" src="scripts/materialize/dist/js/materialize.js"></script>
+
+
+
+
+
+<script type="text/javascript" src="http://materializecss.com/templates/starter-template/js/init.js"></script>
+

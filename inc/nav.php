@@ -2,14 +2,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
-<Link type="text/css" rel="stylesheet" href="style/style.css"/>
+<Link type="text/css" rel="stylesheet" href="styles/styles.css"/>
+<Link type="text/css" rel="stylesheet" href="scripts/animate.css/animate.css"/>
+<Link type="text/css" rel="stylesheet" href="scripts/animate.css/animate.min.css"/>
+
 <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<!-- Compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="http://materializecss.com/templates/starter-template/js/init.js"></script>
-
-
 
 <!-- Dropdown Structure -->
 <ul id="dropdown1" class="dropdown-content">
@@ -31,11 +28,3 @@
 </nav>
  
 
-<script>
- $(".button-collapse").sideNav();
-	$( document ).ready(function(){
-		$(".dropdown-button").dropdown();
-	alert("ball");
-	})
-
-</script>
