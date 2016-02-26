@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col l6 s12">
       <ul>
-        <li><a href="#"><img src="images/trkka.png" width="18" height="18" style="float: left; margin-right: 10;
+        <li><a href="#"><img src="images/trkka.png" width="18" height="18" style="float: left; margin-right: 10px;
 "><h6 class="black-text">เกี่ยวกับเรา</h6></a></li>
         <li><a href="#"><img src="images/trkka.png" width="18" height="18" style="float: left; margin-right: 10px;
 "><h6 class="black-text">ข้อตกลงและเงื่อนไข</h6></a></li>

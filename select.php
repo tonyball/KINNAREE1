@@ -21,8 +21,10 @@
 			    <div class="nav-wrapper  green lighten-3">
 			      <div class=" container col s12">
 			        <a href="#!" class="breadcrumb black-text">เลือกเที่ยวบิน</a>
-			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด/จ่ายเงิน</a>
-			        <a href="#!" class="breadcrumb white-text ">ตรวจสอบข้อมูล</a>
+			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด</a>
+			        <a href="#!" class="breadcrumb white-text ">บริการพิเศษ</a>
+			        <a href="#!" class="breadcrumb white-text ">ชำระค่าบริการ</a>
+
 			      </div>
 			    </div>
 			   </nav>
