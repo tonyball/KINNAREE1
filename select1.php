@@ -66,7 +66,7 @@
 				    </div>
 				</div>
 			<div>
-				<table>
+				<table class="striped">
 			        <thead>
 			          <tr>
 			              <th data-field="id">ไฟท์บิน</th>
@@ -116,7 +116,7 @@
 				    </div>
 				</div>
 			<div>
-				<table>
+				<table class="striped">
 			        <thead>
 			          <tr>
 			              <th data-field="id">ไฟท์บิน</th>

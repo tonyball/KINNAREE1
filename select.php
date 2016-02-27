@@ -12,6 +12,7 @@
 		border: 2px solid #4caf50 !important;
 		background-color: #4caf50 !important;
 	}
+
 </style>
 	<?php include 'inc/nav.php';?>
 
@@ -67,7 +68,7 @@
 				    </div>
 				</div>
 			<div>
-				<table>
+				<table class="highlight">
 			        <thead>
 			          <tr>
 			              <th data-field="id">ไฟท์บิน</th>
@@ -117,7 +118,7 @@
 				    </div>
 				</div>
 			<div>
-				<table>
+				<table class="highlight">
 			        <thead>
 			          <tr>
 			              <th data-field="id">ไฟท์บิน</th>

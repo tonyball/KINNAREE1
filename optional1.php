@@ -54,6 +54,44 @@
 						  	</select>		                 
 						 <td>
 			          </tr>
+			           <tr>
+			            <td><p>WEERAPHAT SIRAPHAUBOON</p></td>
+			            <td>
+							<select class="browser-default">
+							    <option value="" disabled selected>Choose your option</option>
+							    <option value="1">+5 Kgs (245THB)</option>
+							    <option value="2">+15 Kgs (525THB)</option>
+							    <option value="3">+25 Kgs (875THB)</option>
+						  	</select>
+			            </td>
+			            <td>
+			            	<select class="browser-default">
+							    <option value="" disabled selected>Choose your option</option>
+							    <option value="1">+5 Kgs (245THB)</option>
+							    <option value="2">+15 Kgs (525THB)</option>
+							    <option value="3">+25 Kgs (875THB)</option>
+						  	</select>		                 
+						 <td>
+			          </tr>
+			           <tr>
+			            <td><p>PLOY WARANGKANA</p></td>
+			            <td>
+							<select class="browser-default" disabled>
+							    <option value="" disabled selected>Choose your option</option>
+							    <option value="1">+5 Kgs (245THB)</option>
+							    <option value="2">+15 Kgs (525THB)</option>
+							    <option value="3">+25 Kgs (875THB)</option>
+						  	</select>
+			            </td>
+			            <td>
+			            	<select class="browser-default" disabled>
+							    <option value="" disabled selected>Choose your option</option>
+							    <option value="1">+5 Kgs (245THB)</option>
+							    <option value="2">+15 Kgs (525THB)</option>
+							    <option value="3">+25 Kgs (875THB)</option>
+						  	</select>		                 
+						 <td>
+			          </tr>
 			         </form>
 			        </tbody>
 			      </table>

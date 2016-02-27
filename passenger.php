@@ -28,6 +28,8 @@
 			</div>
 			<div class=" col s12 ">
 				 <form class="container col s12">
+				 	<h5><i class="fa fa-male"></i>ผู้โดยสาร ผู้ใหญ่</h5>
+				 	<div class="divider"></div><br/>
 				      <div class="row">
 				      	<div class="col s2">
 				      		
