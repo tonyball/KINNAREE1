@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>บริการพิเศษ</title>
 </head>
 <body>
 	<?php include 'inc/nav.php';?>
@@ -20,9 +20,13 @@
 			   </nav>
 
 			  	<div class="card green lighten-4 col s12" style="width:100%; height:80px;">
-			  		<h5> สัมภาระ</h5>
-			  		<p>สามารถเพิ่มน้ำหนกได้</p>
-			  	</div>
+				<h5 style="padding-top:10px; padding-left:10px">สัมภาระ</h5>	
+				<span style="padding-left:10px">สามารถเพิ่มน้ำหนักสัมภาระได้</span>
+				</div>
+
+
+			</div>
+
 			  	<div>
 			  		<table>
 			        <thead>

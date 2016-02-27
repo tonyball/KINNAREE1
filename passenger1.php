@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>กรอกรายละเอียด</title>
 </head>
 <body>
 	<?php include 'inc/nav.php';?>
