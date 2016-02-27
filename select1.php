@@ -23,8 +23,7 @@
 			        <a href="#!" class="breadcrumb black-text">เลือกเที่ยวบิน</a>
 			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด</a>
 			        <a href="#!" class="breadcrumb white-text ">บริการพิเศษ</a>
-			        <a href="#!" class="breadcrumb white-text ">ชำระค่าบริการ</a>
-			      </div>
+			        <a href="#!" class="breadcrumb white-text ">ชำระค่าบริการ</a>			      </div>
 			    </div>
 			   </nav>
 			<div class="row ">
@@ -40,8 +39,8 @@
 
 				        <tbody>
 				          <tr>
+				            <td>2</td>
 				            <td>1</td>
-				            <td>0</td>
 				            <td>0</td>
 				          </tr>
 				        </tbody>
@@ -159,10 +158,11 @@
 		</div>
 		<div class="card">
 			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                  2,950</p>
-			<p>Total Amount                               THB                  2,950</p>
+			<p>Adult(s)                                   THB                 2x2,950</p>
+			<p>Children(s)                                THB                 1x2,950</p>
+			<p>Total Amount                               THB                  8,850</p>
 			<p>                                                             Include VAT. </p>
-			<a href="passenger.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+			<a href="passenger1.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
 		</div>
 			 	
 	</div>

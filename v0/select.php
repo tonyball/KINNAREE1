@@ -24,6 +24,7 @@
 			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด</a>
 			        <a href="#!" class="breadcrumb white-text ">บริการพิเศษ</a>
 			        <a href="#!" class="breadcrumb white-text ">ชำระค่าบริการ</a>
+
 			      </div>
 			    </div>
 			   </nav>
@@ -48,7 +49,7 @@
 				      </table>
 				</div>
 				<div class="col s8">
-					<h5><i class="fa fa-plane"></i>เลือกเที่ยวบินที่คุณต้องการ</h5>
+					<h5><i class="fa fa-plane"></i>โปรดเลือกเที่ยวบินที่ต้องการโดยการติ้กถูกข้างหลังราคา</h5>
 				</div>
 			</div>
 			<div>
@@ -80,21 +81,21 @@
 			        <tbody>
 			        <form>
 			          <tr>
-			            <td>Chiang Mai (CNX) To Bangkok (DMK)</td>
-			            <td><b>CNX - 18:05</b><p>Thai Lion air, SL 8525</p></td>
-			            <td><b>DMK - 19:35</b><p>Duration :  01h 30mins</p></td>
+			            <td>NE-333</td>
+			            <td>DMK</td>
+			            <td>CNK</td>
 			            <td>
 			            	<input name="group1" type="radio" id="test1"  />
-			      			<label for="test1" class="black-text">2,625.00 บาท</label>
+			      			<label for="test1" class="black-text">10000 บาท</label>
 		                 <td>
 			          </tr>
 			          <tr>
-			            <td>Chiang Mai (CNX) To Bangkok (DMK)</td>
-			            <td><b>CNX - 21:50</b><p>Thai Lion air, SL 8517</p></td>
-			            <td><b>DMK - 23:15</b><p>Duration :  01h 25mins</p></td>
+			            <td>NE-333</td>
+			            <td>DMK</td>
+			            <td>CNK</td>
 			            <td>
 			            	<input name="group1" type="radio" id="test2"  />
-			      			<label for="test2" class="black-text">1,925.00 บาท</label>
+			      			<label for="test2" class="black-text">10000 บาท</label>
 		                 <td>
 			          </tr>
 
@@ -130,41 +131,30 @@
 			        <tbody>
 			          <tr>
 			            <tr>
-			            <td>Bangkok (DMK) To Chiang Mai (CNX)</td>
-			            <td><b>DMK - 08:35</b><p>Thai Lion air, SL 8522</p></td>
-			            <td><b>CNX - 09:35</b><p>Duration :  01h</p></td>
+			            <td>NE-333</td>
+			            <td>DMK</td>
+			            <td>CNK</td>
 			            <td>
 			            	<input name="group1" type="radio" id="test3"  />
-			      			<label for="test3" class="black-text">1,025.00 บาท</label>
+			      			<label for="test3" class="black-text">10000 บาท</label>
 		                 <td>
-			          </tr
+			          </tr>
 			          <tr>
-			            <td>Bangkok (DMK) To Chiang Mai (CNX)</td>
-			            <td><b>DMK - 09:40</b><p>Thai Lion air, SL 8506</p></td>
-			            <td><b>CNX - 10:55</b><p>Duration :  01h 15mins</p></td>
+			            <td>NE-333</td>
+			            <td>DMK</td>
+			            <td>CNK</td>
 			            <td>
 			            	<input name="group1" type="radio" id="test4"  />
-			      			<label for="test4" class="black-text">1,025.00 บาท</label>
+			      			<label for="test4" class="black-text">10000 บาท</label>
 		                 <td>
 			          </tr>			          </tr>
 			        </tbody>
 			      </table>
 			</div>
-			 	
+			<a class="waves-effect waves-light btn green right" style="margin-top:0px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+			  	
 		</div>
-		
-		</div>	
-		<div class="divider">
-			
-		</div>
-		<div class="card">
-			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                  2,950</p>
-			<p>Total Amount                               THB                  2,950</p>
-			<p>                                                             Include VAT. </p>
-			<a href="passenger.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
-		</div>
-			 	
+		</div>		
 	</div>
 
 	<?php include 'inc/footer.php';?>

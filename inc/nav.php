@@ -18,13 +18,13 @@
   <li class="divider"></li>
    <li><a href="#!">ภาษาอังกฤษ</a></li>
 </ul>
-<nav>
-  <div class="nav-wrapper green">
-    <a href="#!" class="brand-logo">กินรี</a>
+<nav class='nav1'>
+  <div class="nav-wrapper white" >
+    <a href="index.php" class="brand-logo"><img src="images/logo1-1.jpg" width="90%"></a>
     <ul class="right hide-on-med-and-down">
-      <li><a class="dropdown-button" href="#!" data-activates="dropdown1">ภาษาไทย<i class="material-icons right icon">arrow_drop_down</i></a></li>
-      <li><a href="#">เข้าสู่ระบบ</a></li>
-      <li><a href="#">สมัครสมาชิก</a></li>
+      <li><a class="dropdown-button green-text" href="#!" data-activates="dropdown1">ภาษาไทย<i class="material-icons right icon green-text">arrow_drop_down</i></a></li>
+      <li><a href="#" class="green-text">เข้าสู่ระบบ</a></li>
+      <li><a href="#" class="green-text">สมัครสมาชิก</a></li>
     </ul>
       <!-- Dropdown Trigger -->
 

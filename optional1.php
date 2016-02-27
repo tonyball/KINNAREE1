@@ -64,11 +64,12 @@
 		</div>
 		<div class="card">
 			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                  2,950</p>
-			<p>Bag(s)                                     THB                  1x245</p>
-			<p>Total Amount                               THB                  3.195</p>
+			<p>Adult(s)                                   THB                 2x2,950</p>
+			<p>Children(s)                                THB                 1x2,950</p>
+			<p>Bag(s)                                     THB                  3x245</p>
+			<p>Total Amount                               THB                  9,585</p>
 			<p>                                                             Include VAT. </p>
-			<a  href="pay.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+			<a href="pay.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
 		</div>
 	</div>
 

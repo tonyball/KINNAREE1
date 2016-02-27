@@ -15,7 +15,6 @@ html,body{
     margin-left: -0px !important;
     margin-right: 5px !important;
 }
-nav{
-  /*background url(../images/xdlit-logo.png) center center no-repeat*/
-  background-size 100px
-}
+nav,.nav1{
+   height: 71px;
+  }

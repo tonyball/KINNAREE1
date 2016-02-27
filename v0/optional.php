@@ -36,21 +36,21 @@
 			        <tbody>
 			        <form>
 			          <tr>
-			            <td><p>KEERANAT TASSANAEKAJIT</p></td>
+			            <td><b>CNX - 18:05</b><p>Thai Lion air, SL 8525</p></td>
 			            <td>
 							<select class="browser-default">
 							    <option value="" disabled selected>Choose your option</option>
-							    <option value="1">+5 Kgs (245THB)</option>
-							    <option value="2">+15 Kgs (525THB)</option>
-							    <option value="3">+25 Kgs (875THB)</option>
+							    <option value="1">Option 1</option>
+							    <option value="2">Option 2</option>
+							    <option value="3">Option 3</option>
 						  	</select>
 			            </td>
 			            <td>
 			            	<select class="browser-default">
 							    <option value="" disabled selected>Choose your option</option>
-							    <option value="1">+5 Kgs (245THB)</option>
-							    <option value="2">+15 Kgs (525THB)</option>
-							    <option value="3">+25 Kgs (875THB)</option>
+							    <option value="1">Option 1</option>
+							    <option value="2">Option 2</option>
+							    <option value="3">Option 3</option>
 						  	</select>		                 
 						 <td>
 			          </tr>
@@ -58,17 +58,8 @@
 			        </tbody>
 			      </table>
 			  	</div>
-		</div>
-		<div class="divider">
-			
-		</div>
-		<div class="card">
-			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                  2,950</p>
-			<p>Bag(s)                                     THB                  1x245</p>
-			<p>Total Amount                               THB                  3.195</p>
-			<p>                                                             Include VAT. </p>
-			<a  href="pay.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+
+
 		</div>
 	</div>
 

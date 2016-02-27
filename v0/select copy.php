@@ -21,9 +21,8 @@
 			    <div class="nav-wrapper  green lighten-3">
 			      <div class=" container col s12">
 			        <a href="#!" class="breadcrumb black-text">เลือกเที่ยวบิน</a>
-			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด</a>
-			        <a href="#!" class="breadcrumb white-text ">บริการพิเศษ</a>
-			        <a href="#!" class="breadcrumb white-text ">ชำระค่าบริการ</a>
+			        <a href="#!" class="breadcrumb white-text ">กรอกรายละเอียด/จ่ายเงิน</a>
+			        <a href="#!" class="breadcrumb white-text ">ตรวจสอบข้อมูล</a>
 			      </div>
 			    </div>
 			   </nav>
@@ -40,9 +39,9 @@
 
 				        <tbody>
 				          <tr>
-				            <td>1</td>
-				            <td>0</td>
-				            <td>0</td>
+				            <td><?php echo $_POST['name']?></td>
+				            <td><?php echo $_POST['b']?></td>
+				            <td><?php echo $_POST['c']?></td>
 				          </tr>
 				        </tbody>
 				      </table>
@@ -159,10 +158,8 @@
 		</div>
 		<div class="card">
 			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                  2,950</p>
-			<p>Total Amount                               THB                  2,950</p>
-			<p>                                                             Include VAT. </p>
-			<a href="passenger.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+			<p>asdsadasdasdasdasdasdasd</p>
+			<a class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
 		</div>
 			 	
 	</div>

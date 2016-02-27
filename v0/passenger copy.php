@@ -32,24 +32,22 @@
 				      	<div class="col s2">
 				      		
 				      	
-						  <label style="font-size:11px;" class="black-text"><img src="images/Name-52.png" width="16" height="16"> คำนำหน้าชื่อ</label>
+						  <label style="font-size:10px;" class="black-text"><img src="images/airplane_take_off.png" width="16" height="16"> คำนำหน้าชื่อ</label>
 						  	<select class="browser-default">
-							    <option value=""selected>Mr.</option>
-							    <option value="1">Mrs.</option>
-							    <option value="2">Ms.</option>
-							    <option value="2">Miss.</option>
-
+							    <option value=""selected>นาย</option>
+							    <option value="1">นาง</option>
+							    <option value="2">นางสาว</option>
 						  	</select>
 						 </div>
 						 <div class="col s5">
 						 	<div class="input-field">
-					          <input name='text'id="name" type="text"  required class="validate" onKeyPress="return KeyCode(text)" onChange="javascript:this.value=this.value.toUpperCase();">
+					          <input id="last_name" type="text" class="validate">
 					          <label for="last_name">ชื่อ</label>
 					        </div>
 						 </div>
 						 <div class="col s5">
 						 	<div class="input-field">
-					          <input name='text' id="last_name" type="text" required class="validate" onKeyPress="return KeyCode(text)" onChange="javascript:this.value=this.value.toUpperCase();">
+					          <input id="last_name" type="text" class="validate">
 					          <label for="last_name">นามสกุล</label>
 					        </div>
 						 </div>
@@ -58,7 +56,7 @@
 				      </div>
 				      <div class="row">
 				      	<div class="col s7">
-				      		<label style="font-size:12px;" class="black-text"><img src="images/Birthday Cake-52.png" width="16" height="16"> วันเกิด</label>
+				      		<label style="font-size:10px;" class="black-text"><img src="images/airplane_take_off.png" width="16" height="16"> วันเกิด</label>
 				      		<div class="row">
 				      			<div class="col s3">
 				      				<select class="browser-default">
@@ -143,7 +141,7 @@
 				      		</div>
 				      	</div>
 				      	<div class="col s3">
-				      		 <label style="font-size:12px;" class="black-text"><img src="images/Globe-52.png" width="16" height="16"> สัญชาติ</label>
+				      		 <label style="font-size:10px;" class="black-text"><img src="images/airplane_take_off.png" width="16" height="16">สัญชาติ</label>
 						  	<select class="browser-default">
 							    <option value=""selected>Thai</option>
 							    <option value="1">Singaporean</option>
@@ -156,27 +154,14 @@
 				      </div>
 				    </form>
 			</div>
-				<a href="optional.php" class="waves-effect waves-light btn green right" style="margin-top:0px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+				<a class="waves-effect waves-light btn green right" style="margin-top:0px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
 			
 		</div>
 	</div>
 
 	<?php include 'inc/footer.php';?>
 
-	<script type="text/javascript">
-		function KeyCode(objId)
-		{
-		if (event.keyCode >= 97 && event.keyCode<=122 || event.keyCode >= 65 && event.keyCode<=90  ) //48-57(ตัวเลข) ,65-90(Eng ตัวพิมพ์ใหญ่ ) ,97-122(Eng ตัวพิมพ์เล็ก)
-		{
-		return true;
-		}
-		else
-		{
-		alert("กรอกได้เฉพาะ A-Z ");
-		return false;
-		}
-		}
-	</script>
+
 
 </body>
 </html>
