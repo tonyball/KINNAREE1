@@ -158,12 +158,42 @@
 			
 		</div>
 		<div class="card">
-			<h4>รวมค่าใช้จ่าย</h4>
-			<p>Adult(s)                                   THB                 2x2,950</p>
-			<p>Children(s)                                THB                 1x2,950</p>
-			<p>Total Amount                               THB                  8,850</p>
-			<p>                                                             Include VAT. </p>
-			<a href="passenger1.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
+		<div class="container" >
+				<h5 style="padding-top:10px; ">รวมค่าใช้จ่าย</h5>
+				 <table>
+			         <thead>
+			          <tr>
+			              <th data-field="id">ประเภทผู้โดยสาร</th>
+			              <th data-field="name">จำนวนคน</th>
+			              <th data-field="price">ราคา</th>
+			          </tr>
+			        </thead>
+
+			        <tbody>
+			          <tr>
+			            <td>ผู้ใหญ่</td>
+			            <td>2 คน</td>
+			            <td>5,900 บาท</td>
+			            
+			          </tr>
+			          <tr>
+			            <td>เด็ก</td>
+			            <td>1 คน</td>
+			            <td>2,950 บาท</td>
+			            
+			          </tr>
+			          <tr>
+			            <td>รวมราคา</td>
+			            <td></td>
+			            <td>8,800 บาท</td>
+			            
+			          </tr>
+			        
+			        </tbody>
+			      </table>
+			</div>              
+			
+			<a href="passenger1.php" class="waves-effect waves-light btn green right" style="margin-top:-20px;" width="100%">&nbsp&nbsp&nbsp&nbspต่อไป&nbsp&nbsp&nbsp&nbsp</a>
 		</div>
 			 	
 	</div>

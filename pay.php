@@ -36,7 +36,7 @@
 			      	<label for="test3" class="black-text">โอนเงินผ่านตู้ ATM&nbsp&nbsp&nbsp&nbsp&nbsp <img src="images/1.jpg" height="30px" width="80px">&nbsp&nbsp&nbsp&nbsp&nbsp <img src="images/2.png" height="30px" width="100px"></label>
 			  		
 			  	</div>
-			  	<a href="pay.php" class="waves-effect waves-light btn green right" style="margin-top:-30px;" width="100%">&nbsp&nbsp&nbsp&nbspชำระค่าบริการ&nbsp&nbsp&nbsp&nbsp</a>
+			  	<a href="pay.php" class="waves-effect waves-light btn green right" style="margin-top:0px;" width="100%">&nbsp&nbsp&nbsp&nbspชำระค่าบริการ&nbsp&nbsp&nbsp&nbsp</a>
 		</div>
 	</div>
 
