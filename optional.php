@@ -25,7 +25,7 @@
 				</div>
 
 
-			</div>
+			
 
 			  	<div>
 			  		<table>
@@ -61,6 +61,7 @@
 			         </form>
 			        </tbody>
 			      </table>
+			  	</div>
 			  	</div>
 		
 		<div class="divider">
